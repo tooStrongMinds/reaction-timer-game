@@ -1,4 +1,4 @@
-# modal-project
+# A simple reaction game timer using Vue.js
 
 ## Project setup
 ```
